@@ -1,12 +1,24 @@
-.calculator {
+body{
+background-color: black;
+text-align: center;
 
-margin: 100px auto;
-margin-left: 400px;
 
 }
-body{
-background-color: orange;
+.btn{
+
+margin: 3px;
 
 
+}
+input[type="text"]{
+height: 70px;
+width: 250px;
+
+
+}
+.calculator{
+border: 5px solid green;
+width: 300px;
+margin: 150px auto;
 
 }
